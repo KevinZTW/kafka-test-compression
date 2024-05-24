@@ -1,0 +1,28 @@
+[gzip]  [512]
+[payload size]: [100]
+25864
+[payload size]: [1000]
+39880
+[payload size]: [10000]
+63332
+[gzip]  [2048]
+[payload size]: [100]
+26306
+[payload size]: [1000]
+39940
+[payload size]: [10000]
+60505
+[gzip]  [8192]
+[payload size]: [100]
+28366
+[payload size]: [1000]
+41276
+[payload size]: [10000]
+52950
+[gzip]  [32768]
+[payload size]: [100]
+26732
+[payload size]: [1000]
+39845
+[payload size]: [10000]
+61589

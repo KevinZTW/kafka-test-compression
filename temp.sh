@@ -1,0 +1,1 @@
+BUFFER_SIZE= COMPRESSION_TYPE= CLUSTER_ID=xJABceXrjK3Vbm8DDPAN86 BROKER_PORT=9092 ACCOUNT=kevinztw REVISION=kip-780 KAFKA_ACCOUNT=kevinztw ~/kafka-experiment/astraea/docker/start_broker.sh controller.quorum.voters=15976@192.168.1.109:12814
